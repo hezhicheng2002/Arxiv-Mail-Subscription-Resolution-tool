@@ -53,3 +53,7 @@ Download the zip file or clone using the web URL.
 ## Usage
 
 Choose the mail word document and then the filtrated words list txt file, and select a path to save the output html file. You may click the html file and see the result shown in the default browser.
+
+The part that you favorate are shown at the very beginning, subsequently are the middle part and the unfavored part.
+
+Click the title will guide you to the arxiv page, and if abstract content is provided, you may click the highlighted button to see more.
