@@ -45,3 +45,11 @@ New a txt document and write in the key words you like or dislike. Here is a for
 ```
 
 ### Installation
+
+Download the zip file or clone using the web URL.
+
+	git clone https://github.com/He52/Arxiv-Mail-Subscription-Resolution-tool.git
+
+## Usage
+
+Choose the mail word document and then the filtrated words list txt file, and select a path to save the output html file. You may click the html file and see the result shown in the default browser.
