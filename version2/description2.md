@@ -1,0 +1,9 @@
+- 2.0
+  - Add comments for better understanding.
+  - Exception messages can be seen for a short while after interruption happens.
+  - You may filtrate the documents that you prefer in front and those you don't like to the end of the page.
+- 2.1
+  - The titles are numbered in sequence.
+  - Special signs in texts including "$" has been cleaned to avoid mistakes.
+  - Titles of multiple lines are expressed properly.
+  - The button of abstrates are more visible and the three parts of document lists are divided.
