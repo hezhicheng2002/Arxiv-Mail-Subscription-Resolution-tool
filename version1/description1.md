@@ -1,4 +1,6 @@
 - 1.0
-  - It has fixed input and output directory, but successfully extracts titles, links and abstracts of the passages.
+  - It has fixed input and output directory
+  - Able to extract titles, links and abstracts of the passages.
 - 1.1
-  - You may choose the input and output freely and allows for exception detection. It also has been encapsulated as an exe file.
+  - You may choose the input and output freely and allows for exception detection.
+  - It has been encapsulated as an exe file.
