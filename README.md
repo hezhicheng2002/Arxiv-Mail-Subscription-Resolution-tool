@@ -14,6 +14,9 @@ You may also go to the directory and encapsulate the source code into exe by run
 pip install pyinstaller
 pyintaller python_name.py
 ```
+The input mail file should be formatted as **"*.docx"**, with a version newer than 2003.
+
+The input filtrating words list should be formatted as "*.txt", with **"UTF-8" or "latin-1"** format.
 
 ## Getting Started
 
@@ -43,6 +46,8 @@ New a txt document and write in the key words you like or dislike. Here is a for
 +like
 +CAPITAL IS OK
 ```
+
+**NOTICE:** In order to avoid unnecessary bugs, please add words in a format that you **exactly** wanted, since what you put in here will be highlighted if mentioned in the result html page.
 
 ### Installation
 
