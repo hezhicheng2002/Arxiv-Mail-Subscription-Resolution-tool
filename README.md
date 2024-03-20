@@ -14,9 +14,16 @@ You may also go to the directory and encapsulate the source code into exe by run
 pip install pyinstaller
 pyintaller python_name.py
 ```
+
+### Recommand Input format
+
 The input mail file should be formatted as **"*.docx"**, with a version newer than 2003.
 
 The input filtrating words list should be formatted as "*.txt", with **"UTF-8" or "latin-1"** format.
+
+### Recommend Environment
+
+Windows 10, python>=3.10.0, anaconda suggested.
 
 ## Getting Started
 
